@@ -278,7 +278,7 @@ INSERT INTO Enrollments (student_id, course_id, semester_id, grade, grade_point,
 SELECT * FROM Students;
 SELECT * FROM Courses;
 SELECT * FROM Semesters;
-SELECT * FROM Enrollments LIMIT 20;
+SELECT * FROM Enrollments;
 
 //pass or fail statistics,
 
